@@ -12,7 +12,7 @@ Always happy to make new acquaintances!😀
 
 [![telegram][t.me]][t-url]
 
-[Python.org]: https://img.shields.io/badge/Python-yellow?logo=python
+[Python.org]: https://img.shields.io/badge/Python-black?logo=python&logoColor=yellow
 [Python-url]: https://python.org
 [t.me]: https://img.shields.io/badge/Telegram-black?style=plastic&logo=telegram
 [t-url]: https://t.me/n1k1ta01
