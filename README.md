@@ -1,16 +1,19 @@
-### Hi there 👋
+### Hey! I'm Nikita!👋
 
-<!--
-**Arahit0gami/Arahit0gami** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm learning the [![python][Python.org]][Python-url] programming language.🐍
 
-Here are some ideas to get you started:
+Every day I try to improve my skills to become a more professional developer.💪🏻
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Hopefully, as time goes on, there will be some really useful projects here for you. In the meantime, I will work on myself.🚀
+
+Always happy to make new acquaintances!😀
+
+### Contacts for communication:
+
+[![telegram][t.me]][t-url]
+
+[Python.org]: https://img.shields.io/badge/Python-yellow?logo=python
+[Python-url]: https://python.org
+[t.me]: https://img.shields.io/badge/Telegram-black?style=plastic&logo=telegram
+[t-url]: https://t.me/n1k1ta01
+
